@@ -525,4 +525,8 @@ footer {
     margin-top: 1rem;
     padding-top: 0.8rem;
   }
+
+  .chip-medium {
+    display: none !important;
+  }
 }
